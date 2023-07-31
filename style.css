@@ -167,8 +167,10 @@ footer {
 
     .sect1 img {
         width: 90vw;
+        height: 55vh;
         margin-left: 20px;
         padding: 0;
+
     }
 
 
@@ -201,7 +203,7 @@ footer {
     .sect2 img {
         display: flex;
         width: 90vw;
-        height: 40vh;
+        height: 45vh;
 
     }
 
@@ -210,15 +212,22 @@ footer {
         margin-left: 3px;
     }
 
-    .div-4 h2 {
-        width: 80vw;
-        padding-bottom: 20px;
-    }
+
 
     .div-4 p {
+
         padding-bottom: 10px;
 
     }
+
+
+    .div-4 h2 {
+        width: 80vw;
+        padding-bottom: 20px;
+        margin-bottom: 20px;
+    }
+
+
 
 
     footer {
