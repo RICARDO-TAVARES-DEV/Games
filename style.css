@@ -67,9 +67,9 @@ main div {
 }
 
 .div-1 {
-    
+
     width: 100vw;
-   
+
 }
 
 .texto-1 {
@@ -82,8 +82,8 @@ main div {
 }
 
 .div-2 {
-      width: 100vw;
-   
+    width: 100vw;
+
 }
 
 
@@ -97,9 +97,9 @@ main div {
 
 
 .div-3 {
-   
+
     width: 100vw;
-   
+
 }
 
 .texto-3 {
@@ -172,15 +172,13 @@ footer {
 
     .sect1 {
         width: 100%;
-
         display: block;
         padding: 0;
         margin-bottom: 0;
-        border: solid black;
+
     }
 
     .sect1 img {
-        border: solid blue;
         width: 85vw;
         margin-left: 20px;
         padding: 0;
@@ -189,19 +187,16 @@ footer {
 
     .texto-1 {
         width: 80vw;
-        border: solid blue;
         padding-left: 40px;
     }
 
     .texto-2 {
         width: 80vw;
-        border: solid orange;
         padding-left: 40px;
     }
 
     .texto-3 {
         width: 80vw;
-        border: solid red;
         padding-left: 40px;
     }
 
